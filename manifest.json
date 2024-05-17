@@ -22,8 +22,8 @@
     },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "9953D35CFE7962194AED05EA325C073B4A79E6A1E839AC5FBC094C6EA50A8AAD",
-      "size": 26682
+      "checksum": "97A11C57EB03BA081DEF1D356A19489B2F80D2D0A8AE00FFC65722D4A5EDF3E7",
+      "size": 26683
     },
     "static/author-icon.svg": {
       "name": "static/author-icon.svg",
@@ -86,6 +86,6 @@
       "size": 1153
     }
   },
-  "zip_url": "https://github.com/MeenuKumari28/blue-cs/archive/781c4a6275071805dc6b42b1ab4e6ecd091f4717.zip",
-  "checksum": "B5DACD0AC849716BE5714E68777AB6261923AB3C0730478B10627B7BD6322C1A"
+  "zip_url": "https://github.com/MeenuKumari28/blue-cs/archive/1f9c90991a53b8849d78eeb825130a34edc5bf74.zip",
+  "checksum": "423E1BFA63B1B78A0B8EF48AEFD154BEDCF9C3B1AECB2FCCCD669B7FE798D2E5"
 }
